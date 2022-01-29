@@ -12,6 +12,11 @@ only limited experience using GitHub in the browser to create content, and, in t
 of *community learning*, he's going to only use the web interface for this repository. 
 So, we'll learn together!
 
+## Collaborators
+
+- Josh London / @jmlondon
+- 
+
 ## Weekly Quick Takes from Josh
 
 Josh will do his best to participate in each of your Seaside Chats and support you along
@@ -41,3 +46,13 @@ issue. But, for the rest, we'll rely on you to create those as issues
 2. Github organization structures. Do we need orgs?
 3. Collaboration Tools & Workflows. What works? What doesn't?
 4. ...
+
+## Getting Started Editing Content on GitHub
+
+### Task #1: Comment on an Issue
+Use the first issue (`Welcome to the Repo ...`) to a make comment and let us know what your favorite
+marine mammal 🦭 🐳 🐋 🐻‍❄️ 🐬 and fish 🐠 🐡 🐟 🦈 are, and why ! Then, for an advanced challenge,
+do an internet search for `how to add an image to a github commit` and see if you can edit your
+commit to include an image of your favorite
+
+### Task #2: Edit this README.md
