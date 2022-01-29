@@ -35,6 +35,7 @@ After the first co-hort call and initial 1:1 chats, here are a few ideas for iss
 this group might want to start. @jmlondon will create the first item in the list as an
 issue. But, for the rest, we'll rely on you to create those as issues
 
-1. MML Github organization structures. Do we need orgs? 
-2. Collaboration Tools & Workflows. What works? What doesn't?
-3. ...
+1. [Welcome to the Repo - What's your fav marine mammal? fish?](https://github.com/jmlondon/trophic-sars/issues/1)
+2. Github organization structures. Do we need orgs? 
+3. Collaboration Tools & Workflows. What works? What doesn't?
+4. ...
