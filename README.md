@@ -1,4 +1,4 @@
-# Trophic Ecology of Seals & MarMam Stock Assessment Reports
+# Trophic Ecology of Seals & Marine Mammal Stock Assessment Reports
 
 ## A Space and a Place
 
@@ -6,7 +6,7 @@ This GitHub repository is a place and space for discussion and collaboration
 among the AFSC Openscapes 2022 teams focussed on the 
 **Trophic Roles of Ice Seals** and **Marine Mammal Stock Assessment Reports** --- but ALL are welcome!
 
-Josh London (@jmlondon) is hosting this space as an Openscapes mentor. But, he relinquishes 
+Josh London ([@jmlondon](https://github.com/jmlondon)) is hosting this space as an Openscapes mentor. But, he relinquishes 
 all ownership and control for the group to use and evolve this as needed. Since Josh has 
 only limited experience using GitHub in the browser to create content, and, in the spirit 
 of *community learning*, he's going to only use the web interface for this repository. 
@@ -16,7 +16,9 @@ So, we'll learn together!
 
 Josh will do his best to participate in each of your Seaside Chats and support you along
 as you develop your trailheads and pathways. Josh will also be participating in mentor
-calls with Julie (@jules32), Emily (@EmilyMarkowitz-NOAA), and Megsie (@MargaretSiple-NOAA). 
+calls with Julie ([@jules32](https://github.com/jules32)), 
+Emily ([@EmilyMarkowitz-NOAA](https://github.com/EmilyMarkowitz-NOAA)), 
+and Megsie ([@MargaretSiple-NOAA](https://github.com/MargaretSiple-NOAA)). 
 Because of that, he'll have some unique perspective and will do his best to share a few 
 Quick Takes from each week that might be relevant for this group.
 
@@ -36,6 +38,6 @@ this group might want to start. @jmlondon will create the first item in the list
 issue. But, for the rest, we'll rely on you to create those as issues
 
 1. [Welcome to the Repo - What's your fav marine mammal? fish?](https://github.com/jmlondon/trophic-sars/issues/1)
-2. Github organization structures. Do we need orgs? 
+2. Github organization structures. Do we need orgs?
 3. Collaboration Tools & Workflows. What works? What doesn't?
 4. ...
