@@ -17,6 +17,7 @@ So, we'll learn together!
 ## Collaborators
 
 - Josh London / @jmlondon
+- Brian Fadely / @BFadely
 - 
 
 ## Weekly Quick Takes from Josh
