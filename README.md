@@ -18,7 +18,7 @@ So, we'll learn together!
 
 - Josh London / @jmlondon
 - Brian Fadely / @BFadely
-- 
+- Erin Richmond / @erinrichmond
 
 ## Weekly Quick Takes from Josh
 
