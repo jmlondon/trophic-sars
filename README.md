@@ -27,12 +27,6 @@ as you develop your trailheads and pathways. Josh will also be participating in 
 calls with Julie ([@jules32](https://github.com/jules32)), 
 Emily ([@EmilyMarkowitz-NOAA](https://github.com/EmilyMarkowitz-NOAA)), 
 and Megsie ([@MargaretSiple-NOAA](https://github.com/MargaretSiple-NOAA)). 
-Because of that, he'll have some unique perspective and will do his best to share a few 
-Quick Takes from each week that might be relevant for this group.
-
-### Quick Takes
-- 28 January: _insert link to document and issue_
-- 04 February:
 
 ## Ideas for Issue Discussions
 
